@@ -1,0 +1,25 @@
+
+.card-main{
+  width: 100%;
+}
+table {
+  width: 100%;
+  text-align: left;
+  justify-content: center;
+}
+button{
+  margin-top: 20px;
+}
+.div-table{
+  text-align: center;
+  justify-content: center;
+}
+.div-main{
+  text-align: center;
+
+}
+h1{
+  margin: 20px;
+  font-size: 30px;
+}
+
